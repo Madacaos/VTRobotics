@@ -11,10 +11,10 @@ from utils import Logger, LogType
 
 class ChatAssistant:
     def __init__(self, robotics):
-        self.server_ip = "188.14.140.140"
-        self.server_port = "5173"
+        self.server_ip = "your-ip-here"
+        self.server_port = "your-port-here"
         self.server_url = "http://{}:{}".format(self.server_ip, self.server_port)
-        self.server_secret = "yh@itsBbkT&F%&6QBWaMpy^Mv"
+        self.server_secret = "your-secret-token-here"
 
         self.server_headers = {
             'Content-Type': 'application/json',

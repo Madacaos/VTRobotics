@@ -37,8 +37,6 @@ class Robotics:
                  di applicare modifiche in futuro per migliorarne il funzionamento
 
                         - Mirko Cerasi (https://github.com/Madacaos)
-                        - Maurizio Palano (https://github.com/MrTheShy)
-                        - Fabrizio La Rosa (https://github.com/fabrimat)
                 """, stripped=False)
 
     def start(self):
